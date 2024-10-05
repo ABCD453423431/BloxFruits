@@ -30,7 +30,7 @@ local CommF_ = WaitChilds(Remotes, "CommF_")
 
 local Module do
   Module = {}
-  Module.MaxLevel = 2550
+  Module.MaxLevel = 9999
   Module.NPCs = {}
   Module.EnemySpawns = {}
   
